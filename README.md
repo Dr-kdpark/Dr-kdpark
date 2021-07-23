@@ -1,6 +1,9 @@
 Dr. Kyudong Park is an Assistant Professor in the School of Information Convergence at KwangWoon University, and he directs Human-centered Computing Lab.
+
 He received his Ph.D. in Interdisciplinary Engineering (Computer Science & Industrial and Management Engineering) at POSTECH in South Korea.
+
 Before joining KwangWoon University, he was in charge of data-driven UX design as a Senior Researcher at SAMSUNG SDS.
+
 His research interests include Intelligent Interaction, Human-AI interaction, Human-centered computing, and VR/AR. 
 
 
